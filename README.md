@@ -12,3 +12,5 @@
 参考源码：https://github.com/pschatzmann/ESP32-A2DP
 
 参考视频：https://www.bilibili.com/video/BV1rzbWeiE6t/?spm_id_from=333.337.search-card.all.click&vd_source=f2c6a4769fd1e4d89bec669032e8f634
+
+使用该项目需要安装库文件，直接下载源码然后在Arduino IDE上添加库文件(.zip)即可。
